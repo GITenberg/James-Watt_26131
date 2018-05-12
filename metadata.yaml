@@ -1,0 +1,31 @@
+_repo: James-Watt_26131
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carnegie, Andrew
+    birthdate: 1835
+    deathdate: 1919
+    gutenberg_agent_id: '2029'
+    url: http://www.gutenberg.org/2009/agents/2029
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Carnegie
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2008-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 40
+subjects:
+- !lcc 'CT'
+- !lcc 'TA'
+- !lcsh 'Watt, James, 1736-1819'
+- !lcsh 'Biography'
+title: James Watt
+url: http://www.gutenberg.org/ebooks/26131
